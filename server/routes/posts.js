@@ -9,6 +9,4 @@ router.get('/', getPosts)
 router.post('/', createPost)
 
 
-
-
 export default router
